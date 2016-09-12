@@ -1,4 +1,6 @@
 # phd_M/20160701---M_simulation/idl/
+- Author: Dat Tien Hoang
+- IDL
 
 statistical simulations of random transition dipole arrangements in 2D and 3D, implemented in IDL 
 
